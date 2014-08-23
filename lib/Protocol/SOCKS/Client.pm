@@ -1,5 +1,5 @@
 package Protocol::SOCKS::Client;
-$Protocol::SOCKS::Client::VERSION = '0.002';
+$Protocol::SOCKS::Client::VERSION = '0.003';
 use strict;
 use warnings;
 
@@ -11,7 +11,7 @@ Protocol::SOCKS::Client - client support for SOCKS protocol
 
 =head1 VERSION
 
-Version 0.002
+Version 0.003
 
 =head1 DESCRIPTION
 

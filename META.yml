@@ -27,4 +27,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Protocol-SOCKS
   homepage: http://search.cpan.org/dist/Protocol-SOCKS/
-version: '0.002'
+version: '0.003'
