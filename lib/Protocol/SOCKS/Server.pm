@@ -1,5 +1,5 @@
 package Protocol::SOCKS::Server;
-$Protocol::SOCKS::Server::VERSION = '0.001';
+$Protocol::SOCKS::Server::VERSION = '0.002';
 use strict;
 use warnings;
 
@@ -11,7 +11,7 @@ Protocol::SOCKS::Server - server support for SOCKS protocol
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 DESCRIPTION
 

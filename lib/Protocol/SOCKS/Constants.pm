@@ -1,5 +1,5 @@
 package Protocol::SOCKS::Constants;
-$Protocol::SOCKS::Constants::VERSION = '0.001';
+$Protocol::SOCKS::Constants::VERSION = '0.002';
 use strict;
 use warnings;
 
